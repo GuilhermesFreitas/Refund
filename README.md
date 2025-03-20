@@ -29,7 +29,13 @@ Antes de iniciar, certifique-se de ter um navegador web atualizado instalado.
    git clone https://github.com/GuilhermesFreitas/Refund.git
    
 2.Navegue até o diretório do projeto:
-```cd Refund```
+```
+cd Refund
+```
 
 3.Execução
-Basta abrir o arquivo ```index.html``` em qualquer navegador web para acessar a aplicação.
+Basta abrir o arquivo
+```
+index.html
+```
+em qualquer navegador web para acessar a aplicação.
