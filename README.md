@@ -25,8 +25,9 @@ Antes de iniciar, certifique-se de ter um navegador web atualizado instalado.
 ### 🛠️ Instalação
 
 1. Clone o repositório:
-   ```bash
-   git clone https://github.com/GuilhermesFreitas/Refund.git
+```bash
+git clone https://github.com/GuilhermesFreitas/Refund.git
+```
    
 2.Navegue até o diretório do projeto:
 ```
